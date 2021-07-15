@@ -1,20 +1,23 @@
-# StoryBooks
+# Livro de Histórias
 
-> Create public and private stories from your life
+> Imagine e crie histórias
 
-This app uses Node.js/Express/MongoDB with Google OAuth for authentication
+Este app usa Node.js/Express/MongoDB com autenticação pelo Google OAuth 
 
-## Usage
+## Uso
 
-Add your mongoDB URI and Google OAuth credentials to the config.env file
+Adiciona seu mongoDB URI e as credenciais do Google OAuth no arquivo config.env 
+
+Baseado no tutorial https://www.youtube.com/watch?v=SBvmnHTQIPY da Traversy Media
+
 
 ```
-# Install dependencies
+# Instalar dependencias
 npm install
 
-# Run in development
+# Rodando o modo de desenvolvimento
 npm run dev
 
-# Run in production
+# Run em produção
 npm start
 ```
