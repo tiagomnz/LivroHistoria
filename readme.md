@@ -4,6 +4,8 @@
 
 Este app usa Node.js/Express/MongoDB com autenticação pelo Google OAuth 
 
+![Alt text](https://github.com/tiagomnz/LivroHistoria/blob/main/LivroHistoria.png?raw=true "Tela")
+
 ## Uso
 
 Adiciona seu mongoDB URI e as credenciais do Google OAuth no arquivo config.env 
